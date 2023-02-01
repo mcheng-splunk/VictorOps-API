@@ -131,9 +131,9 @@ DELETE 'https://api.victorops.com/api-public/v1/policies/pol-bEaTn9Y3zQ3vPf3U' \
 We will create the new **Escalation Policy** . Few values we need to populate for the JSON input data
 
 
- - teamSlug  [Step4](#Step4)
- - rotationGroup.slug [Step3](#Step3)
- - rotationGroup.label  [Step3](#Step3)
+ - teamSlug  [Step4](#step-4---retrieve-escalation-policies-details)
+ - rotationGroup.slug [Step3](#step-3---retrieve-rotation-details)
+ - rotationGroup.label  [Step3](#step-3---retrieve-rotation-details)
 
 ```
 curl --location --request 
